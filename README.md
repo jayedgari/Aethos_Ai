@@ -1,5 +1,5 @@
 # Aethos_Ai
-a bold attempt to create an artificial  God
+A bold attempt to create an Artificial  God
  
  
 
