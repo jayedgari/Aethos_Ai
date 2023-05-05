@@ -25,13 +25,20 @@ beyond a text to text generation model
 an ai with even more senses than humans , something that can think ,see , talk , speak , control physical matters and more
 
 something with human behavior recogniition of META ( instagram,facebook,spotify,whatsapp,..)
+
 the data center of google and their api's , which means : maps, text2speech ,speech2text , live image scan , google search,google cloud powerful computing systems,...it has 470 powerful API's
+
 the core logic of gpt4 
+
 the automation of Autogpt 
+
 the free speach of Alpaca , no filter what so ever 
+
 with the ability of sensing its own enviroments temp , sound , light , vision , ... with the assist of rasberry pi 
-and mechanical power of Arduino projects 
-the power of machine learning algorithms and its ability to learning and improving and of course trainable with the power of microsoft,google nad amazon ML API services 
+
+mechanical power of Arduino projects 
+
+and the power of machine learning algorithms and its ability to learning and improving and of course trainable with the power of microsoft,google nad amazon ML API services 
  
   
 when i asked about his story 
